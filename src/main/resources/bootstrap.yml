@@ -1,0 +1,13 @@
+server:
+  port: 8342
+
+spring:
+  application:
+    name: zCloud2ConfigClient
+  cloud:
+    config:
+      uri: http://localhost:8340/
+      profile: default
+      label: master
+
+
