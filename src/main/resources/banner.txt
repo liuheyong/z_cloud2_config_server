@@ -6,5 +6,6 @@ ${AnsiColor.BRIGHT_MAGENTA}
 \ \_\ \_\ \____\\ \___/ \ \____\\ \_\      \ \_\ \_\ \____/    \ \_,__/\ \____/\ \____ \
  \/_/\/_/\/____/ \/__/   \/____/ \/_/       \/_/\/_/\/___/      \/___/  \/___/  \/___L\ \
                                                                                   /\____/
+
                                                                                   \_/__/
 Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
