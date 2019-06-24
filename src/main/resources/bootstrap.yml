@@ -6,10 +6,12 @@ spring:
     name: zCloud2ConfigClient
   cloud:
     config:
-      uri: http://localhost:8340
+      uri: http://localhost:8140
       profile: default
       label: master
 
 #JCE对称加密
 encrypt:
   key: wenyixicodedog
+
+
